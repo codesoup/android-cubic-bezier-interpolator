@@ -12,3 +12,11 @@ android {
         versionName '1.0.0'
     }
 }
+
+ext {
+    PUBLISH_GROUP_ID = 'nl.codesoup.cubicbezier'
+    PUBLISH_ARTIFACT_ID = 'cubicbezier'
+    PUBLISH_VERSION = '1.0.0'
+}
+
+apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
