@@ -1,4 +1,4 @@
-package nl.codesoup;
+package nl.codesoup.cubicbezier;
 
 import android.graphics.PointF;
 import android.view.animation.Interpolator;
