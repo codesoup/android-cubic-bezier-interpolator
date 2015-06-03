@@ -1,3 +1,5 @@
+**Deprecated**: use https://developer.android.com/reference/android/support/v4/view/animation/PathInterpolatorCompat.html instead.
+
 android-cubic-bezier-interpolator
 =================================
 
